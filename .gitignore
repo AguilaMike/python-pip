@@ -251,3 +251,6 @@ $RECYCLE.BIN/
 
 # Images that not need to tracking
 charts/images_charts/
+
+# Debbug
+launch.json
