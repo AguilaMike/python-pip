@@ -13,6 +13,8 @@ def get_contact():
     return """
         <h1>Hola soy una página</h1>
         <p>Soy un parrafo</p>
+        <p>Vamos a ver si se sincroniza el cambio</p>
+        <p>Otro cambio</p>
     """
 
 def run():
